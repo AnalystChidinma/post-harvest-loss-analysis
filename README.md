@@ -18,19 +18,20 @@ and evaluate the impact of storage, transport, and technology adoption**.
 ## Dashboard Overview
   ### Overview Page [Overview Dashboard] <img width="981" height="564" alt="Over Page" src="https://github.com/user-attachments/assets/6db0029c-5735-45d1-ae19-ead0e02dee0f" />
   ### Summary Page [Summary Dashboard] <img width="972" height="557" alt="image" src="https://github.com/user-attachments/assets/bcab9add-ba3d-455a-b752-a388b1a173f4" />
+## Dashboard Features
+- Interactive KPI cards with YoY comparisons
+- Trend analysis of spoilage vs harvest volume
+- Regional and crop-level drill-downs
+- Comparative analysis of trained vs untrained farmers
+- Impact assessment of technology adoption
+- DAX measures for performance evaluation
 ## Key Insights
 - Average post-harvest loss stands at 19.25%, with marginal year-on-year improvement.
 - Total revenue loss exceeds ₦41.42M, indicating severe economic impact.
 - Regions with poor market access record the highest revenue loss.
-- Technology adoption (solar dryers, hermetic bags) correlates with reduced spoilage.
+- Technology adoption showed measurable impact on loss reduction.
 - Trained farmers experience significantly lower revenue loss compared to untrained farmers.
-## Recommendation
-- Expand training to more farmers, especially in high-loss areas.
--	Promote simple tech tools like hermetic bags that reduce waste.
--	Support youth farmers, as they adopt solutions faster and perform better.
--	Upgrade storage and transport options for perishable crops.
--	Monitor progress with clear targets for reducing loss.
-
+  
 ## Tools and Technologies
 - Power BI Desktop
 - Power Query (ETL)
@@ -42,3 +43,6 @@ and evaluate the impact of storage, transport, and technology adoption**.
 - Open with Power BI Desktop
 - Refresh data if required
 - Use slicers for year, revenue loss and spoilage metrics
+## Author
+**Chidinma Okeh**
+Data Analyst
